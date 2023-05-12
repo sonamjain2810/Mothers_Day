@@ -1,0 +1,38 @@
+class Images {
+  Images._();
+  static const images_path = [
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/1.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/2.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/3.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/4.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/5.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/6.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/7.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/8.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/9.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/10.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/11.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/12.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/13.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/14.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/15.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/16.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/17.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/18.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/19.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/20.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/21.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/22.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/23.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/24.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/25.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/26.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/27.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/28.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/29.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/30.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/31.jpeg",
+    "http://andiwiniosapps.in/mothers_day_message/mothers_day_images/32.jpeg",
+  
+  ];
+}

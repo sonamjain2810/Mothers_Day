@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
-import 'package:image_gallery_saver/image_gallery_saver.dart';
+//import 'package:image_gallery_saver/image_gallery_saver.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
@@ -295,9 +295,8 @@ class _MemeGeneratorState extends State<MemeGenerator> {
 
   _savefile(File file) async {
     await _askPermission();
-    final result = await ImageGallerySaver.saveImage(
-        Uint8List.fromList(await file.readAsBytes()));
-    debugPrint(result);
+    //final result = await ImageGallerySaver.saveImage(Uint8List.fromList(await file.readAsBytes()));
+    //debugPrint(result);
   }
 
   _askPermission() async {

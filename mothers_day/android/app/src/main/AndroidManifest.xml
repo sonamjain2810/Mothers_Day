@@ -1,12 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="good.morning.images.messages">
+    package="mothers.day.images.messages">
    <application
-        android:label="Good Morning Images &amp; Messages"
+        android:label="Happy Mother's Day Wishes Quotes"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-8179797674906935~6566714014"/>
+            android:value="ca-app-pub-8179797674906935~2159826451"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

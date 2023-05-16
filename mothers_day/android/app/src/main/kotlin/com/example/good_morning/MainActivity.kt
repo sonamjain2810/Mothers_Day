@@ -1,4 +1,4 @@
-package good.morning.images.messages
+package mothers.day.images.messages
 
 import io.flutter.embedding.android.FlutterActivity
 

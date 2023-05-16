@@ -7,7 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Mother&apos;s Day</string>
+	<string>Happy Mother's Day Wishes Quotes</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Mother&apos;s Day Messages Images</string>
+	<string>Happy Mother's Day Wishes Quotes</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -31,7 +31,7 @@
 	<key>FacebookClientToken</key>
 	<string>066758a8e28fb2ba2a64144920d9e203</string>
 	<key>GADApplicationIdentifier</key>
-	<string>ca-app-pub-8179797674906935~3904688605</string>
+	<string>ca-app-pub-8179797674906935~3542931805</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>

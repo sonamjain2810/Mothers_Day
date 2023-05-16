@@ -8,40 +8,40 @@ class Strings {
 
   static const accountEmail = "gj1studio@gmail.com";
 
-  static const appName = "Good Morning Messages Images";
+  static const appName = "Happy Mother's Day Wishes Quotes";
 
-  static const mailAppName = "Baby%20Shower%20Wishes%20Gifs%20Images";
+  static const mailAppName = "Happpy Mothers%20Day%20Wishes%20Quotes";
 
-  static const iosAppId = "1232993917";
+  static const iosAppId = "1235378448";
 
-  static const iosAdmobAppId = "ca-app-pub-8179797674906935~3904688605";
+  static const iosAdmobAppId = "ca-app-pub-8179797674906935~3542931805";
 
-  static const iosAdmobBannerId = "ca-app-pub-8179797674906935/5381421800";
+  static const iosAdmobBannerId = "ca-app-pub-8179797674906935/5019665004";
 
   static const iosAdmobInterstitialId =
-      "ca-app-pub-8179797674906935/6858155003"; //8452635043
+      "ca-app-pub-8179797674906935/6496398206"; //8452635043
 
-  static const iosAdmobNativeId = "ca-app-pub-8179797674906935/7768223890";
+  static const iosAdmobNativeId = "ca-app-pub-8179797674906935/5719781606";
 
-  static const iosAdmobRewardedId = "ca-app-pub-8179797674906935/5333632249";
+  static const iosAdmobRewardedId = "ca-app-pub-8179797674906935/9147906635";
 
   static const iosFBInterstitialId = "266846741590142_266846904923459";
 
   static const iosFBBannerId = "266846741590142_270405771234239";
 
-  static const androidAppPackageName = "good.morning.images.messages";
+  static const androidAppPackageName = "mothers.day.images.messages";
 
-  static const androidAdmobAppId = "ca-app-pub-8179797674906935~6566714014";
+  static const androidAdmobAppId = "ca-app-pub-8179797674906935~2159826451";
 
-  static const androidAdmobBannerId = "ca-app-pub-8179797674906935/6503080938";
+  static const androidAdmobBannerId = "ca-app-pub-8179797674906935/5799634660";
 
   static const androidAdmobInterstitialId =
-      "ca-app-pub-8179797674906935/5189999267";
+      "ca-app-pub-8179797674906935/5560015413";
 
-  static const androidAdmobNativeId = "ca-app-pub-8179797674906935/5518174465";
+  static const androidAdmobNativeId = "ca-app-pub-8179797674906935/4246933742";
 
   static const androidAdmobRewardedId =
-      "ca-app-pub-8179797674906935/6423189884";
+      "ca-app-pub-8179797674906935/5256763087";
 
   static const testDevice = 'c835aea0489176f272e2d174b8d921ca';
 
